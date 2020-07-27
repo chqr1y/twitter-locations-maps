@@ -11,7 +11,7 @@ Input DATA
 
 - World map : https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
 
-- Twitter Trending Places providing by twitter API https://developer.twitter.com/en/docs/trends/trends-for-location/api-reference/get-trends-place 
+- Twitter Trending Places available providing by twitter API https://developer.twitter.com/en/docs/trends/locations-with-trending-topics/api-reference/get-trends-available 
 
 Output DATA
 -----------
