@@ -24,3 +24,5 @@ Acknowledgement
 Natural Earth Data : https://www.naturalearthdata.com/
 
 Twitter : https://developer.twitter.com/
+
+Mapshaper : https://mapshaper.org/ / https://github.com/mbloch/mapshaper
