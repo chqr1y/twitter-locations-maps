@@ -1,11 +1,11 @@
 ## How it's work?
 
-This script takes as input a zip file of th GIS map provide by Natural Earth and a JSON file containing the twitter trends locations provided by the twitter API.
+This script takes as input a zip file of the GIS map provide by Natural Earth and a JSON file containing the twitter trends locations provided by the twitter API.
 Example :
 1. Map : https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/50m/cultural/ne_50m_admin_0_countries.zip
 1. Twitter trends available : https://developer.twitter.com/en/docs/trends/locations-with-trending-topics/api-reference/get-trends-available
 
-This script generates a new ZIP file containing the GIS map and for each country a "tw_woeid" field. The value of this field is either the whoid proved by twitter or '-1'.
+This script generates a new ZIP file containing the GIS map and for each country a "tw_woeid" field. The value of this field is either the WOEID provided by twitter or '-1'.
 
 ## Install
 
